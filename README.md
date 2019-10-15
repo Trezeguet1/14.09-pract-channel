@@ -1,2 +1,4 @@
 # 14.09-pract-channel
-testers
+
+repository for testers
+        
