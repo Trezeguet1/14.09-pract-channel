@@ -17,7 +17,7 @@ iphone = driver.find_element_by_xpath("//*[@id='search-page']/div[2]/ul/li[1]/di
 iphone.click()
 
 if driver.find_elements_by_css_selector(".button.button_big.button_orange.offers-description__button"):
-    print("ДОСТУПЕН ДЛЯ ПОКУПКИ")
+    print("aalile")
 
 time.sleep(5)
 driver.close()
