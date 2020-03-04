@@ -1,7 +1,4 @@
-"""
-@author: Anuj Kumar
-@email: cdac.anuj@gmail.com
-"""
+
 from pages.welcome_page import WelcomePage
 from utility.drivermanager import DriverManager
 
